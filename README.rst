@@ -1,6 +1,7 @@
 **Official docs:** http://www.pymatgen.org
 
-.. image:: https://coveralls.io/repos/github/materialsproject/pymatgen/badge.svg?branch=master :target: https://coveralls.io/github/materialsproject/pymatgen?branch=master
+.. image:: https://circleci.com/gh/materialsproject/pymatgen.png?circle-token=:circle-token
+.. image:: https://coveralls.io/repos/github/materialsproject/pymatgen/badge.svg?branch=master
 
 Pymatgen (Python Materials Genomics) is a robust, open-source Python library
 for materials analysis. These are some of the main features:
